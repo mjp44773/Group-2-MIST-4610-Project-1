@@ -3,7 +3,7 @@
 29704 Group 2
 # Team Members 
 Enzo Vasallo [@enzovasallo](https://www.github.com/enzovasallo)  <br>
-Parker Kane  @parkerkane5 <br>
+Parker Kane  [@parkerkane5](https://www.github.com/parkerkane5) <br>
 Kaylie Chin  @SQLKCHin <br>
 Clint Kitchens @clintkitchens <br> 
 Ore Pratt @nathanp2020 <br> 
