@@ -6,7 +6,7 @@ Enzo Vasallo [@enzovasallo](https://www.github.com/enzovasallo)  <br>
 Parker Kane   <br>
 Kaylie Chin   <br>
 Clint Kitchens  <br> 
-Ore Pratt  <br> 
+Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br> 
 Jazlyn Piedra  <br> 
 # Problem Description:
 The task at hand is to create a relational database for a football club's operations. The central entity in the model is the Team entity, representing the football club itself. The club's operations include player, match, Tickets, and more. We aim to accurately model these relationships, generate sample data, and populate the entities and their attributes with this sample data. Furthermore, we are interested in performing functional queries on this data to gain valuable insights into the club's activities and operations.
