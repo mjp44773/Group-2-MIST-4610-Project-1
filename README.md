@@ -2,7 +2,7 @@
 # Team name 
 29704 Group 2
 # Team Members 
-Enzo Vasallo @enzovasallo  <br>
+Enzo Vasallo [@enzovasallo](https://www.github.com/enzovasallo)  <br>
 Parker Kane  @parkerkane5 <br>
 Kaylie Chin  @SQLKCHin <br>
 Clint Kitchens @clintkitchens <br> 
