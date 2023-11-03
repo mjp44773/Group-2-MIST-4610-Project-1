@@ -39,6 +39,23 @@ Incorporating these entities and relationships, our data model comprehensively c
 
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/4cf98aa6-e9a8-4831-8a05-a6e1ae44442c)
 
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/77e3d001-5aa8-4a5e-b45a-5a9a05cd63c3)
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/8a7afbcf-8f1e-4751-8e59-457fbc7129d4)
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/760c58c1-7615-4f5b-add8-b42024dcf91b)
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/7d54c920-1a5c-4dcd-8c85-90d0e6814bae)
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/e7a03d52-73d4-4403-b949-b7b14acc46d2)
+
+
+
+
+
+
+
+
 
 
 
