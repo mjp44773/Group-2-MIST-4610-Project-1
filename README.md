@@ -24,6 +24,7 @@ Incorporating these entities and relationships, our data model comprehensively c
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/36d4ff53-256c-4dbf-a719-597a284b6866)
 
 # Data Dictionary 
+
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/a65a0997-0b9a-43b1-bb44-e6412fef25a0)
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/d7f88c72-5bdf-4722-9cbe-41ab11de778b)
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/7545ae7a-0383-4ce0-a0db-4ac11b1c1479)
