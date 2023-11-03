@@ -49,6 +49,11 @@ Incorporating these entities and relationships, our data model comprehensively c
 
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/e7a03d52-73d4-4403-b949-b7b14acc46d2)
 
+# Queries 
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/e8624379-cadd-47f6-acf5-df3c53992e51)
+
+
 
 
 
